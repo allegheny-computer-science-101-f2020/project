@@ -18,6 +18,8 @@
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for a final project in a Data Abstraction introductory computer science class. GatorGrader and GitHub Actions Continuous Integration are not used for this assignment.
 
+You can choose to work individually or in a team for this project assignment. GitHub Classroom project assignment is set up to be an individual assignment. If you are working in a team, please have one team member accept the assignment and establish the repository. Then, contact the instructor or a technical leader to add the other team members to this repository.
+
 ## Introduction
 
 Throughout the semester, you have explored the fundamentals of algorithm analysis, data structures, and Java programming by studying, in an applied fashion, topics such as variables and data types, the creation, use, and testing of Java classes, conditionals, loops, and recursion and various types of data containers such as linked lists. This final project invites you to explore, in greater detail, a real-world application of computer science. You will learn more about how to use, implement, test, and evaluate different types of real-world computer software.
