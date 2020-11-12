@@ -12,9 +12,6 @@
 
 - [System Commands](#system-commands)
 
-  - [Using Docker](#using-docker)
-  - [Using Gradle](#using-gradle)
-
 - [Receiving Assistance](#receiving-assistance)
 
 - [Project Assessment](#lab-assessment)
@@ -104,8 +101,6 @@ You must complete all of the aforementioned deliverables by the following due da
 ## System Commands
 
 This assignment uses [Docker](https://www.docker.com), thereby eliminating the need for a programmer to install software on their development workstation. Please note that GatorGrader is not used in this assignment, thus `gradle grade` command is not accessible.
-
-### Using Docker
 
 Once you have installed [Docker Desktop](https://www.docker.com/products/docker-desktop), you can use the following `docker run` command to enter an interactive terminal that will allow you to repeatedly run commands within the Docker container.
 
