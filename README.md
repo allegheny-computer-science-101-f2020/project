@@ -14,7 +14,7 @@
 
 - [Receiving Assistance](#receiving-assistance)
 
-- [Project Assessment](#lab-assessment)
+- [Project Assessment](#project-assessment)
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for a final project in a Data Abstraction introductory computer science class. GatorGrader and GitHub Actions Continuous Integration are not used for this assignment.
 
