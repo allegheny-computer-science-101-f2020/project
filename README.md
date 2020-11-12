@@ -1,7 +1,5 @@
 # cs101f2020-project
 
-## DUE: December 11 by midnight
-
 ## Table of Contents
 
 - [Introduction](#introduction)
